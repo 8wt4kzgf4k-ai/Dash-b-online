@@ -2,7 +2,7 @@ const body = document.getElementById("forecastBody");
 const timer = document.getElementById("timer");
 
 /* 🔗 BACKEND API URL (CHANGE THIS) */
-const API_URL = "https://YOUR_VERCEL_URL/forecast";
+const API_URL = "https://dash-b-online.vercel.app/";
 
 /* ⏱ Countdown timer (5 minutes) */
 let seconds = 300;
